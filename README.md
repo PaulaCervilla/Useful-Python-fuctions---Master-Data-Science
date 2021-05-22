@@ -1,1 +1,1 @@
-# Useful-Python-fuctions---Master-Data-Science
+# Useful-Python-functions---Master-Data-Science
